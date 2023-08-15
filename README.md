@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **dananjanimaduri04@gmail.com**
 
-- ⚡ Fun fact **I love to drawing cartoon character's😁**
+- ⚡ Fun fact **I love to drawing cartoon character 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
