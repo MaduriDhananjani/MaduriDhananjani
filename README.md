@@ -1,6 +1,6 @@
 
 <h3>Hi 🤍, I'm Maduri Dhananjani</h3>
-<h2>I'm a Student, Sofware Developer!!!</h2>
+<h2>I'm a Student, Software Developer!!!</h2>
 
 <p align="left"> <a href="https://twitter.com/maduridananjani" target="blank"><img src="https://img.shields.io/twitter/follow/maduridananjani?logo=twitter&style=for-the-badge" alt="maduridananjani" /></a> </p>
 
